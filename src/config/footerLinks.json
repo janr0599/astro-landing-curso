@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Products",
+    "links": [
+      { "name": "SecureVault Pro", "link": "/" },
+      { "name": "PassGuardian", "link": "/" },
+      { "name": "LockShield ", "link": "/" },
+      { "name": "AccessArmor", "link": "/" },
+      { "name": "SafePass Sentry", "link": "/" },
+      { "name": "CipherKey Defender", "link": "/" }
+    ]
+  },
+  {
+    "title": "Help",
+    "links": [
+      { "name": "About us", "link": "/" },
+      { "name": "FAQs", "link": "/" },
+      { "name": "How it works", "link": "/" },
+      { "name": "Privacy policy", "link": "/" },
+      { "name": "Payment policy", "link": "/" }
+    ]
+  },
+  {
+    "title": "Get in touch",
+    "links": [
+      { "name": "customer@cypher.com", "link": "mailto:customer@cypher.com" },
+      { "name": "+584126508640", "link": "tel:+92554862354" }
+    ]
+  }
+]

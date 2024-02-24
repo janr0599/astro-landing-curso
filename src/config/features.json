@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Customizable Password",
+    "description": "Allow users to set a unique and secure password for accessing the protected content."
+  },
+  {
+    "title": "Time-limited Access",
+    "description": "Empower your users with the flexibility to grant temporary access to sensitive information or exclusive content. By setting an expiration time for the password, you can enhance the overall security of your platform. This feature is particularly useful for scenarios such as sharing confidential documents or providing time-sensitive access to specific resources."
+  },
+  {
+    "title": "Brute Force Protection",
+    "description": "Implement measures to prevent brute force attacks, such as limiting login attempts and implementing CAPTCHA."
+  },
+  {
+    "title": "Notification Alerts",
+    "description": "Receive email or push notifications when there are failed login attempts or unauthorized access to stay informed about security events."
+  },
+  {
+    "title": "Two-Factor Authentication (2FA)",
+    "description": "Enhance security by enabling two-factor authentication, requiring an additional verification step alongside the password."
+  },
+  {
+    "title": "Audit Trail",
+    "description": "Maintain a detailed log of login activities, including timestamps and IP addresses, for better accountability and monitoring of user access."
+  }
+]

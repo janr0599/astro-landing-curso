@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Secure Document Vault",
+    "description": "A password-protected application ensuring the confidentiality of sensitive documents. Safely store and access important files with advanced security measures.",
+    "image": "images/document-vault.svg"
+  },
+  {
+    "title": "Private Event Planner",
+    "description": "Organize and plan your private events securely. Password protection guarantees that only authorized individuals can manage and view event details, guest lists, and more.",
+    "image": "images/event-planner.svg"
+  },
+  {
+    "title": "Confidential Collaboration",
+    "description": "Facilitate secure collaboration on confidential projects. Use our password-protected platform to share and work on sensitive information with your team.",
+    "image": "images/project-collaboration.svg"
+  }
+]

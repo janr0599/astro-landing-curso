@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Advanced Authentication",
+    "img": "advanced-authenticaton.svg",
+    "alt": "credentials authentication icon"
+  },
+  {
+    "title": "Time-sensitive Access",
+    "img": "time-sensitive.svg",
+    "alt": "clock icon"
+  },
+  {
+    "title": "Instant Notifications",
+    "img": "instant-notifications.svg",
+    "alt": "bell notification icon"
+  },
+  {
+    "title": "User Activity Tracking",
+    "img": "activity-tracking.svg",
+    "alt": "tracking pointer icon"
+  }
+]

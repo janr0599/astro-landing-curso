@@ -1,0 +1,27 @@
+---
+interface Props {
+  pageTitle: string;
+  pageDescription: string;
+}
+
+import "../styles/Layout.css";
+
+const { pageTitle, pageDescription } = Astro.props;
+import Footer from "../components/Footer.astro";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={pageDescription} />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <main class="mx-auto container md:pt-10">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>
